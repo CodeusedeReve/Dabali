@@ -2,7 +2,7 @@
 <html lang="en">
   <head>
     <meta charset="utf-8">
-    <title>DABALI RESTAURANT</title>
+    <title>DABALI RESTAURATION</title>
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <?php include("links.php");?>
   </head>
